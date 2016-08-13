@@ -62,7 +62,7 @@ Antes de sair explorando "A caixa de ferramentas do shelleiro", vamos começar d
 
 Para abrir o terminal você pode pressionar Ctrl+Alt+T.
 
-![terminal](../images/terminal.png)
+![terminal](img/terminal.png)
 
 O `$` é o prompt do comando, ou seja, a partir deste símbolo você pode digitar seus comandos.
 
@@ -86,7 +86,7 @@ Esta é a configuração padrão do prompt de comando do terminal, mas se quiser
 PS1="$ "
 ```
 
-![terminal](../images/terminal_ps1.png)
+![terminal](img/terminal_ps1.png)
 
 
 > Para todos os comandos digite `--help`.
