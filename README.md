@@ -592,6 +592,8 @@ for i in $(seq 1 10); do cat file$i.txt >> finalfile.txt; done
 ## Juntando vários arquivos em um só
 
 ```bash
+echo "Um" > um.txt
+echo "Dois" > dois.txt
 arqs="um.txt dois.txt"
 for i in $arqs; do cat $i >> joinedfile.txt; done
 ```
