@@ -762,27 +762,6 @@ https://docs.python.org/3/library/subprocess.html
 http://www.jperla.com/blog/post/a-clean-python-shell-script
 
 
-## Street Fighter Sounds
-
-
-```bash
-# Street Fighter
-c=1
-while [[ c -le 6 ]]
-do
-    if [ $c -le 3 ]; then
-        mplayer ~/sounds/hadoken.mp3
-    elif [ $c -eq 4 ]; then
-        mplayer ~/sounds/shouryuken.mp3
-    elif [ $c -eq 5 ]; then
-        mplayer ~/sounds/tatsumaki_senpukyaku.mp3
-    else
-        mplayer ~/sounds/youwin_perfect.mp3
-    fi
-    (( c++ ))
-done
-```
-
 ## Funny
 
 ```bash
@@ -812,6 +791,13 @@ Leia mais em
 http://technicalworldforyou.blogspot.com.br/
 
 http://rberaldo.com.br/curso-de-shell-script-modulo-1-scripts-shell-estruturas/
+
+http://aurelio.net/shell/canivete/
+https://pt.wikipedia.org/wiki/Bash
+http://aurelio.net/shell/canivete/#ferramentas
+https://jneves.wordpress.com/2008/03/05/papo-de-botequim-parte-1/
+http://wiki.softwarelivre.org/TWikiBar/WebHome
+
 
 http://grandeportal.github.io/
 
