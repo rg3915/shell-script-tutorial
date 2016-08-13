@@ -793,11 +793,14 @@ http://technicalworldforyou.blogspot.com.br/
 http://rberaldo.com.br/curso-de-shell-script-modulo-1-scripts-shell-estruturas/
 
 http://aurelio.net/shell/canivete/
-https://pt.wikipedia.org/wiki/Bash
-http://aurelio.net/shell/canivete/#ferramentas
-https://jneves.wordpress.com/2008/03/05/papo-de-botequim-parte-1/
-http://wiki.softwarelivre.org/TWikiBar/WebHome
 
+https://pt.wikipedia.org/wiki/Bash
+
+http://aurelio.net/shell/canivete/#ferramentas
+
+https://jneves.wordpress.com/2008/03/05/papo-de-botequim-parte-1/
+
+http://wiki.softwarelivre.org/TWikiBar/WebHome
 
 http://grandeportal.github.io/
 
